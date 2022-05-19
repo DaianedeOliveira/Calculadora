@@ -1,2 +1,2 @@
-# Calculadora 💡
-## Utilizei HTML, CSS e JavaScript. 
+#  💡 Calculadora
+## 🔎 Utilizei HTML, CSS e JavaScript. 
